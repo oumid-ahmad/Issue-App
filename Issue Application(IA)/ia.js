@@ -1,6 +1,3 @@
-//VARIABLES
-
-
 
 //EVENT LISTENERS
 document.getElementById('issueInputForm').addEventListener('submit', saveIssue); 
